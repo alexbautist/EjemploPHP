@@ -1,0 +1,26 @@
+
+
+
+
+
+#formModifier{
+    display: flex;
+    flex-direction: column;
+     
+}
+
+body {
+    
+    background-color: blue;
+    color: white;
+    
+}
+
+input {
+    
+    color: green;
+}
+
+button {
+    color: violet;
+}
